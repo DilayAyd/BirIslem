@@ -1,9 +1,0 @@
-C:\Users\dilay\Desktop\İSG RADİOAKTİF\yazılım yapımı\Bir islem uygulama\Bir islem uygulama\bin\Debug\Bir islem uygulama.exe.config
-C:\Users\dilay\Desktop\İSG RADİOAKTİF\yazılım yapımı\Bir islem uygulama\Bir islem uygulama\bin\Debug\Bir islem uygulama.exe
-C:\Users\dilay\Desktop\İSG RADİOAKTİF\yazılım yapımı\Bir islem uygulama\Bir islem uygulama\bin\Debug\Bir islem uygulama.pdb
-C:\Users\dilay\Desktop\İSG RADİOAKTİF\yazılım yapımı\Bir islem uygulama\Bir islem uygulama\obj\Debug\Bir islem uygulama.csprojAssemblyReference.cache
-C:\Users\dilay\Desktop\İSG RADİOAKTİF\yazılım yapımı\Bir islem uygulama\Bir islem uygulama\obj\Debug\Bir_islem_uygulama.Form1.resources
-C:\Users\dilay\Desktop\İSG RADİOAKTİF\yazılım yapımı\Bir islem uygulama\Bir islem uygulama\obj\Debug\Bir_islem_uygulama.Properties.Resources.resources
-C:\Users\dilay\Desktop\İSG RADİOAKTİF\yazılım yapımı\Bir islem uygulama\Bir islem uygulama\obj\Debug\Bir islem uygulama.csproj.GenerateResource.cache
-C:\Users\dilay\Desktop\İSG RADİOAKTİF\yazılım yapımı\Bir islem uygulama\Bir islem uygulama\obj\Debug\Bir islem uygulama.exe
-C:\Users\dilay\Desktop\İSG RADİOAKTİF\yazılım yapımı\Bir islem uygulama\Bir islem uygulama\obj\Debug\Bir islem uygulama.pdb
